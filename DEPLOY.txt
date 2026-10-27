@@ -1,0 +1,3 @@
+GitHub Pages: https://arfdko.github.io/Emp/
+Workflow: .github/workflows/pages.yml deploys the repository root on push to main.
+The published files contain no personal financial data. A fresh install starts empty; restore a private JSON backup from Settings.
